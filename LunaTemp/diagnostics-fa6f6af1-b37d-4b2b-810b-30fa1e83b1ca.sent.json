@@ -1,0 +1,281 @@
+{
+    "BuildID": "fa6f6af1-b37d-4b2b-810b-30fa1e83b1ca",
+    "Command": "project:deploy",
+    "ProjectID": "40084457-d2c2-4fa7-b6be-9c1dc81eedae",
+    "ProjectStateHash": "98c6d08c94b00462e8b9e7a5589e14c62d9ea42cfd1845681d8786a43209983c",
+    "StageCompletedAt": 2,
+    "EarliestFatalError": 0,
+    "StartTime": 1647009695204,
+    "EndTime": 1647009707958,
+    "PlaygroundUserID": 3091,
+    "OperatingSystem": "win32",
+    "UnityVersion": "2020.3.10f1",
+    "LunaVersion": "3.1.0",
+    "LogCount": 10,
+    "Logs": [
+        {
+            "LogID": "d2f5b2bf-c591-4950-9d3d-4b2ce53b4d72",
+            "Order": 0,
+            "Timestamp": 1647009701374,
+            "Stage": 1,
+            "Severity": 2,
+            "ErrorType": 6,
+            "ErrorSubType": 1,
+            "ErrorCode": "LP1005",
+            "Description": "Unlit/Transparent: Tags: \"IGNOREPROJECTOR\"=\"true\" \"QUEUE\"=\"Transparent\" \"RENDERTYPE\"=\"Transparent\" \"LIGHTMODE\"=\"ALWAYS\"\n has problems",
+            "Details": [
+                "Check shader could be compiled for gles rendering platforms (#pragma only_renderers)"
+            ],
+            "DescriptionValues": [
+                "Unlit/Transparent: Tags: \"IGNOREPROJECTOR\"=\"true\" \"QUEUE\"=\"Transparent\" \"RENDERTYPE\"=\"Transparent\" \"LIGHTMODE\"=\"ALWAYS\"\n"
+            ],
+            "DetailsValues": [],
+            "LogCount": 1,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        },
+        {
+            "LogID": "f2323d84-b351-455b-a4f8-349a36d73aee",
+            "Order": 1,
+            "Timestamp": 1647009701501,
+            "Stage": 1,
+            "Severity": 2,
+            "ErrorType": 6,
+            "ErrorSubType": 1,
+            "ErrorCode": "LP1005",
+            "Description": "Standard: Tags: \"LIGHTMODE\"=\"SHADOWCASTER\" \"PERFORMANCECHECKS\"=\"False\" \"RENDERTYPE\"=\"Opaque\" \"SHADOWSUPPORT\"=\"true\"\n has problems",
+            "Details": [
+                "Check shader could be compiled for gles rendering platforms (#pragma only_renderers)"
+            ],
+            "DescriptionValues": [
+                "Standard: Tags: \"LIGHTMODE\"=\"SHADOWCASTER\" \"PERFORMANCECHECKS\"=\"False\" \"RENDERTYPE\"=\"Opaque\" \"SHADOWSUPPORT\"=\"true\"\n"
+            ],
+            "DetailsValues": [],
+            "LogCount": 1,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        },
+        {
+            "LogID": "7dc64f16-144f-417c-93cd-7149f965d917",
+            "Order": 2,
+            "Timestamp": 1647009701535,
+            "Stage": 1,
+            "Severity": 2,
+            "ErrorType": 6,
+            "ErrorSubType": 1,
+            "ErrorCode": "LP1005",
+            "Description": "Legacy Shaders/VertexLit: Tags: \"LIGHTMODE\"=\"Vertex\" \"RENDERTYPE\"=\"Opaque\"\n has problems",
+            "Details": [
+                "Check shader could be compiled for gles rendering platforms (#pragma only_renderers)"
+            ],
+            "DescriptionValues": [
+                "Legacy Shaders/VertexLit: Tags: \"LIGHTMODE\"=\"Vertex\" \"RENDERTYPE\"=\"Opaque\"\n"
+            ],
+            "DetailsValues": [],
+            "LogCount": 1,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        },
+        {
+            "LogID": "fec3350f-3926-4b66-9f95-a4b03bb9ccd3",
+            "Order": 3,
+            "Timestamp": 1647009701535,
+            "Stage": 1,
+            "Severity": 2,
+            "ErrorType": 6,
+            "ErrorSubType": 1,
+            "ErrorCode": "LP1005",
+            "Description": "Legacy Shaders/VertexLit: Tags: \"LIGHTMODE\"=\"VertexLM\" \"RENDERTYPE\"=\"Opaque\"\n has problems",
+            "Details": [
+                "Check shader could be compiled for gles rendering platforms (#pragma only_renderers)"
+            ],
+            "DescriptionValues": [
+                "Legacy Shaders/VertexLit: Tags: \"LIGHTMODE\"=\"VertexLM\" \"RENDERTYPE\"=\"Opaque\"\n"
+            ],
+            "DetailsValues": [],
+            "LogCount": 1,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        },
+        {
+            "LogID": "a633596e-b590-4149-84b4-09ce728816c8",
+            "Order": 4,
+            "Timestamp": 1647009701535,
+            "Stage": 1,
+            "Severity": 2,
+            "ErrorType": 6,
+            "ErrorSubType": 1,
+            "ErrorCode": "LP1005",
+            "Description": "Legacy Shaders/VertexLit: Tags: \"LIGHTMODE\"=\"SHADOWCASTER\" \"RENDERTYPE\"=\"Opaque\" \"SHADOWSUPPORT\"=\"true\"\n has problems",
+            "Details": [
+                "Check shader could be compiled for gles rendering platforms (#pragma only_renderers)"
+            ],
+            "DescriptionValues": [
+                "Legacy Shaders/VertexLit: Tags: \"LIGHTMODE\"=\"SHADOWCASTER\" \"RENDERTYPE\"=\"Opaque\" \"SHADOWSUPPORT\"=\"true\"\n"
+            ],
+            "DetailsValues": [],
+            "LogCount": 1,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        },
+        {
+            "LogID": "1558b47b-9f3d-432e-931b-c57dee82781e",
+            "Order": 5,
+            "Timestamp": 1647009701624,
+            "Stage": 1,
+            "Severity": 2,
+            "ErrorType": 6,
+            "ErrorSubType": 1,
+            "ErrorCode": "LP1005",
+            "Description": "GUI/Text Shader: Tags: \"IGNOREPROJECTOR\"=\"true\" \"PREVIEWTYPE\"=\"Plane\" \"QUEUE\"=\"Transparent\" \"RENDERTYPE\"=\"Transparent\" \"LIGHTMODE\"=\"ALWAYS\"\n has problems",
+            "Details": [
+                "Check shader could be compiled for gles rendering platforms (#pragma only_renderers)"
+            ],
+            "DescriptionValues": [
+                "GUI/Text Shader: Tags: \"IGNOREPROJECTOR\"=\"true\" \"PREVIEWTYPE\"=\"Plane\" \"QUEUE\"=\"Transparent\" \"RENDERTYPE\"=\"Transparent\" \"LIGHTMODE\"=\"ALWAYS\"\n"
+            ],
+            "DetailsValues": [],
+            "LogCount": 1,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        },
+        {
+            "LogID": "952cd784-a672-4bca-9b9d-348feb66a776",
+            "Order": 6,
+            "Timestamp": 1647009704566,
+            "Stage": 1,
+            "Severity": 2,
+            "ErrorType": 4,
+            "ErrorSubType": 5,
+            "ErrorCode": "LP1007",
+            "Description": "Extensive use of mesh colliders",
+            "Details": [
+                "Usage of mesh colliders has negative effect on performance. You can use primitive colliders instead."
+            ],
+            "DescriptionValues": [],
+            "DetailsValues": [],
+            "LogCount": 1,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        },
+        {
+            "LogID": "bb99fe5a-aafd-469c-a82c-60a839649225",
+            "Order": 7,
+            "Timestamp": 1647009704566,
+            "Stage": 1,
+            "Severity": 2,
+            "ErrorType": 6,
+            "ErrorSubType": 1,
+            "ErrorCode": "LP1015",
+            "Description": "This TMP version is not fully supported",
+            "Details": [
+                "The incorrect Text Mesh Pro for this unity version is in use, please update to the recommended version: {0}"
+            ],
+            "DescriptionValues": [],
+            "DetailsValues": [
+                "3.0.0"
+            ],
+            "LogCount": 1,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        },
+        {
+            "LogID": "d9998f78-1f1b-4149-9226-63b78a9f1f21",
+            "Order": 8,
+            "Timestamp": 1647009704567,
+            "Stage": 1,
+            "Severity": 1,
+            "ErrorType": 7,
+            "ErrorSubType": 1,
+            "ErrorCode": "LP1002",
+            "Description": "Non-repeat wrap mode used on a texture with non power-of-two dimensions, this might not be rendered correctly.",
+            "Details": [
+                "imgpsh_fullsize_anim (1)",
+                "Icon_Hand",
+                "Icon_Infinity",
+                "logo",
+                "txt_failed 1",
+                "fail_emo",
+                "bg_cash 1",
+                "frame",
+                "chica",
+                "Minion",
+                "Montgomery",
+                "bg",
+                "txt_new_skin",
+                "light",
+                "icon_watch",
+                "bg_orange"
+            ],
+            "DescriptionValues": [],
+            "DetailsValues": [],
+            "LogCount": 16,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        },
+        {
+            "LogID": "d3780655-3332-433b-bef8-b8116d6eb42b",
+            "Order": 9,
+            "Timestamp": 1647009704567,
+            "Stage": 1,
+            "Severity": 1,
+            "ErrorType": 4,
+            "ErrorSubType": 5,
+            "ErrorCode": "LP1010",
+            "Description": "Looks like a collider was scaled, this might affect performance.",
+            "Details": [
+                "cube 1",
+                "mixamorig:LeftUpLeg",
+                "mixamorig:LeftLeg",
+                "GroundCheck",
+                "mixamorig:LeftUpLeg",
+                "mixamorig:LeftLeg",
+                "GroundCheck",
+                "Plane",
+                "cube 1",
+                "cube 1",
+                "cube 1",
+                "cube 1",
+                "cube 1",
+                "cube 1",
+                "cube 1",
+                "cube 1",
+                "cube 1",
+                "cube 1",
+                "mixamorig:LeftUpLeg",
+                "mixamorig:LeftLeg",
+                "mixamorig:LeftUpLeg",
+                "mixamorig:LeftLeg",
+                "mixamorig:LeftUpLeg",
+                "mixamorig:LeftLeg",
+                "mixamorig:LeftUpLeg",
+                "mixamorig:LeftLeg"
+            ],
+            "DescriptionValues": [],
+            "DetailsValues": [],
+            "LogCount": 26,
+            "FilePath": "",
+            "LinePosition": 0,
+            "ClassName": "",
+            "MemberName": ""
+        }
+    ]
+}

@@ -1,0 +1,271 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -777816280, guid: 0247f03aad9b8de4e963ac057c5cb205, type: 3}
+  m_Name: SVC_Luna
+  m_EditorClassIdentifier: 
+  _shaderVariants:
+  - shader: {fileID: 10750, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 0
+    keywords: []
+  - shader: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 0
+    keywords: []
+  - shader: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 0
+    keywords:
+    - UNITY_UI_ALPHACLIP
+  - shader: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 0
+    keywords:
+    - UNITY_UI_CLIP_RECT
+  - shader: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 0
+    keywords:
+    - UNITY_UI_ALPHACLIP
+    - UNITY_UI_CLIP_RECT
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 4
+    keywords:
+    - DIRECTIONAL
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 4
+    keywords:
+    - DIRECTIONAL
+    - LIGHTPROBE_SH
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 4
+    keywords:
+    - DIRECTIONAL
+    - SHADOWS_SCREEN
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 4
+    keywords:
+    - DIRECTIONAL
+    - LIGHTPROBE_SH
+    - SHADOWS_SCREEN
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 4
+    keywords:
+    - DIRECTIONAL
+    - VERTEXLIGHT_ON
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 4
+    keywords:
+    - DIRECTIONAL
+    - LIGHTPROBE_SH
+    - VERTEXLIGHT_ON
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 4
+    keywords:
+    - DIRECTIONAL
+    - SHADOWS_SCREEN
+    - VERTEXLIGHT_ON
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 4
+    keywords:
+    - DIRECTIONAL
+    - LIGHTPROBE_SH
+    - SHADOWS_SCREEN
+    - VERTEXLIGHT_ON
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 5
+    keywords:
+    - POINT
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 5
+    keywords:
+    - DIRECTIONAL
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 5
+    keywords:
+    - SPOT
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 5
+    keywords:
+    - POINT_COOKIE
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 5
+    keywords:
+    - DIRECTIONAL_COOKIE
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 5
+    keywords:
+    - SHADOWS_DEPTH
+    - SPOT
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 5
+    keywords:
+    - SHADOWS_DEPTH
+    - SHADOWS_SOFT
+    - SPOT
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 5
+    keywords:
+    - DIRECTIONAL
+    - SHADOWS_SCREEN
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 5
+    keywords:
+    - DIRECTIONAL_COOKIE
+    - SHADOWS_SCREEN
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 5
+    keywords:
+    - POINT
+    - SHADOWS_CUBE
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 5
+    keywords:
+    - POINT
+    - SHADOWS_CUBE
+    - SHADOWS_SOFT
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 5
+    keywords:
+    - POINT_COOKIE
+    - SHADOWS_CUBE
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 5
+    keywords:
+    - POINT_COOKIE
+    - SHADOWS_CUBE
+    - SHADOWS_SOFT
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 8
+    keywords:
+    - SHADOWS_DEPTH
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 8
+    keywords:
+    - SHADOWS_CUBE
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 10
+    keywords: []
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 10
+    keywords:
+    - LIGHTPROBE_SH
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 10
+    keywords:
+    - UNITY_HDR_ON
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 10
+    keywords:
+    - LIGHTPROBE_SH
+    - UNITY_HDR_ON
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 11
+    keywords: []
+  - shader: {fileID: 6, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 1
+    keywords: []
+  - shader: {fileID: 6, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 1
+    keywords:
+    - POINT
+  - shader: {fileID: 6, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 1
+    keywords:
+    - SPOT
+  - shader: {fileID: 6, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 2
+    keywords: []
+  - shader: {fileID: 6, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 8
+    keywords:
+    - SHADOWS_DEPTH
+  - shader: {fileID: 6, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 8
+    keywords:
+    - SHADOWS_CUBE
+  - shader: {fileID: 10708, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 1
+    keywords: []
+  - shader: {fileID: 10708, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 2
+    keywords: []
+  - shader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 0
+    keywords: []
+  - shader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 0
+    keywords:
+    - PIXELSNAP_ON
+  - shader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 0
+    keywords:
+    - ETC1_EXTERNAL_ALPHA
+  - shader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 0
+    keywords:
+    - ETC1_EXTERNAL_ALPHA
+    - PIXELSNAP_ON
+  - shader: {fileID: 106, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 0
+    keywords:
+    - _SUNDISK_NONE
+  - shader: {fileID: 106, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 0
+    keywords:
+    - _SUNDISK_SIMPLE
+  - shader: {fileID: 106, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 0
+    keywords:
+    - _SUNDISK_HIGH_QUALITY
+  _usedByLunaBuild:
+  - shader: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 0
+    keywords: []
+  - shader: {fileID: 106, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 0
+    keywords:
+    - _SUNDISK_SIMPLE
+  - shader: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 0
+    keywords: []
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 4
+    keywords:
+    - DIRECTIONAL
+    - LIGHTPROBE_SH
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 5
+    keywords:
+    - POINT
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 4
+    keywords:
+    - DIRECTIONAL
+    - LIGHTPROBE_SH
+    - _SPECULARHIGHLIGHTS_OFF
+    - _GLOSSYREFLECTIONS_OFF
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 5
+    keywords:
+    - POINT
+    - _SPECULARHIGHLIGHTS_OFF
+  - shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 4
+    keywords:
+    - DIRECTIONAL
+    - LIGHTPROBE_SH
+    - _EMISSION
+  - shader: {fileID: 10708, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 1
+    keywords: []
+  - shader: {fileID: 10708, guid: 0000000000000000f000000000000000, type: 0}
+    passType: 2
+    keywords: []
+  _includedShaderVariants: []
+  _excludedShaderVariants: []
+  version: 242

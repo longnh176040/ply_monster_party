@@ -1,0 +1,1 @@
+{"id":"20292","path":"Assets\/PlayableAssets\/Animations\/ZoomIn.anim","assetBundleId":"-1","data":["ZoomIn",0,1,1,[["","UnityEngine.RectTransform","m_LocalScale.x",[0,0.1,0,0,0,4,4,1,1,0,0,0,4,4],[]],["","UnityEngine.RectTransform","m_LocalScale.y",[0,0.1,0,0,0,4,4,1,1,0,0,0,4,4],[]],["","UnityEngine.RectTransform","m_LocalScale.z",[0,1,0,0,0,4,4,1,1,0,0,0,4,4],[]]],[],1]}

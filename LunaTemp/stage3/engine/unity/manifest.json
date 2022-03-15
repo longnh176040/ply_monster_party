@@ -1,0 +1,47 @@
+[
+  {
+    "src": "bin/bridge.js",
+    "priority": 0
+  },
+  {
+    "src": "bin/Bridge.Locales.js",
+    "priority": 2,
+    "optional": true
+  },
+  {
+    "src": "bin/UnityEngine.js",
+    "priority": 2
+  },
+  {
+    "src": "bin/UnityEngine.UI.js",
+    "priority": 2
+  },
+  {
+    "src": "bin/UnityEngine.UniversalRenderPipeline.js",
+    "priority": 2
+  },
+  {
+    "src": "bin/TextMeshPro.js",
+    "priority": 2,
+    "optional": true
+  },
+  {
+    "src": "bin/Cinemachine.js",
+    "priority": 2,
+    "optional": true
+  },
+    {
+    "src": "bin/newtonsoft.json.js",
+    "priority": 2,
+    "require": "Newtonsoft.Json"
+  },
+  {
+    "src": "bin/DOTween.js",
+    "priority": 2,
+    "require": "DOTween"
+  },
+  {
+    "src": "bin/UnityScriptsCompiler.js",
+    "priority": 2
+  }
+]

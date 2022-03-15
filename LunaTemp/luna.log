@@ -1,0 +1,465 @@
+report@config:load 160.39
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/asset.png texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Freddy/Freddy.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/map6Canh/huggy1.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/hexagon/Pokemon/jigglypuff.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/hexagon/Pokemon/meowth.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/hexagon/Pokemon/pikachu.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/hexagon/Pokemon/squirtle.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/hexagon/Pokemon/bullbasaur.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Squid doll.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/anim_player_partymatch_01/player12.png texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/tex_Vanny.png texture. Change its format from ETC_RGB4Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Shark.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Venom/tex_Venom.png texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/Icon_Hand.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/Icon_Infinity.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/logo.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/txt_failed 1.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/frame.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/chica.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Huggy/huggy.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/Minion.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/Montgomery.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Roxame/tex_Roxame.png texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Squid char.png texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/circle-outline3.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/txt_new_skin.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/light.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/icon_watch.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/bg_orange.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Usage of mesh colliders has negative effect on performance. You can use primitive colliders instead.
+report@config:load 156.96
+Authorized using stored user info.
+report@account:authorize 6.85
+stderr: 'rm' is not recognized as an internal or external command,
+operable program or batch file.
+
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/asset.png texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Freddy/Freddy.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/map6Canh/huggy1.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/hexagon/Pokemon/jigglypuff.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/hexagon/Pokemon/meowth.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/hexagon/Pokemon/pikachu.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/hexagon/Pokemon/squirtle.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/hexagon/Pokemon/bullbasaur.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Squid doll.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/anim_player_partymatch_01/player12.png texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/tex_Vanny.png texture. Change its format from ETC_RGB4Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Shark.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Venom/tex_Venom.png texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/Icon_Hand.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/Icon_Infinity.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/logo.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/txt_failed 1.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/frame.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/chica.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Huggy/huggy.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/Minion.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/Montgomery.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Roxame/tex_Roxame.png texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Squid char.png texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/circle-outline3.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/txt_new_skin.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/light.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/icon_watch.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/bg_orange.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Usage of mesh colliders has negative effect on performance. You can use primitive colliders instead.
+Exporting assets from Unity............
+[ Stage1 ] Assets exported from Unity and staged for further processing
+report@unity:export 9091.58
+Using D:/ABI/ABI-PLY-MonsterParty-WorkaroundV2/Assets/PlayableAssets/Texture/UI/SRN CookieRun Black.otf file to generate an atlas for SRN CookieRun Black[29434] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?SWIPETOPLAYTAPTORESTARTGETITNOTHANKS,
+Combined 134 glyphs into bitmap texture at D:/ABI/ABI-PLY-MonsterParty-WorkaroundV2/LunaTemp/stage1/tmp/fonts/SRN CookieRun Black-29434/output_0.png (59kb)
+Resources:
+{}
+report@assets:stage2 2548.30
+report@assets:stage3 298.14
+[ Stage2 ] Assets postprocessed and bundled successfully
+report@code:compose 34.54
+report@config:unity 0.09
+Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+Build started 3/11/2022 9:39:14 PM.
+
+Project "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" on node 1 (Rebuild target(s)).
+
+CoreClean:
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb".
+
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+
+CoreCompile:
+
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2020;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2020_3;UNITY_2020_3_10 /highentropyva+ /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.13-luna\lib\net40\Bridge.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\DOTween.1.2.235\lib\net40\DOTween.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.0\TextMeshPro.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /utf8output /langversion:7.2 D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\DOTween\Modules\DOTweenModuleAudio.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\DOTween\Modules\DOTweenModulePhysics.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\DOTween\Modules\DOTweenModulePhysics2D.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\DOTween\Modules\DOTweenModuleSprite.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\DOTween\Modules\DOTweenModuleUI.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\DOTween\Modules\DOTweenModuleUnityVersion.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\DOTween\Modules\DOTweenModuleUtils.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\Attendee.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\BotPlayer.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\CopyMotion.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\DynamicJoystick.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\GameManager.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\GroundCheck.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\Joysticks.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\LunaRagdollControl.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\MatchManager.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\PlayerController.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\RotateAround.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\TouchRotateSingle.cs Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\MatchManager.cs(41,17): warning CS0169: The field 'MatchManager.winCard' is never used [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\CopyMotion.cs(10,41): warning CS0649: Field 'CopyMotion.mirrorJoint' is never assigned to, and will always have its default value null [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\LunaRagdollControl.cs(6,35): warning CS0649: Field 'LunaRagdollControl.toggleOnByDefault' is never assigned to, and will always have its default value false [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\CopyMotion.cs(7,35): warning CS0649: Field 'CopyMotion.doNotSync' is never assigned to, and will always have its default value false [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\BotPlayer.cs(38,49): warning CS0649: Field 'BotPlayer.ragdollControl' is never assigned to, and will always have its default value null [C:\Users\Admin\Downloads\3.1.0\pipeline\template
+s\LunaCompiler\Scripts\Scripts.csproj]
+
+  CompilerServer: server - server processed compilation - cce96975-6d86-4011-bbef-aca35d02f935
+
+_CopyFilesMarkedCopyLocal:
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.13-luna\lib\net40\Bridge.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\DOTween.1.2.235\lib\net40\DOTween.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.0\TextMeshPro.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.13-luna\lib\net40\Bridge.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Creating "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete" because "AlwaysCreate" was specified.
+
+CopyFilesToOutputDirectory:
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Scripts -> C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+BridgeNetCompilerTask:
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+Done Building Project "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target(s)).
+
+
+
+Build succeeded.
+
+
+
+"C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target) (1) ->
+(CoreCompile target) -> 
+  D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\MatchManager.cs(41,17): warning CS0169: The field 'MatchManager.winCard' is never used [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\CopyMotion.cs(10,41): warning CS0649: Field 'CopyMotion.mirrorJoint' is never assigned to, and will always have its default value null [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\LunaRagdollControl.cs(6,35): warning CS0649: Field 'LunaRagdollControl.toggleOnByDefault' is never assigned to, and will always have its default value false [C:\Users\Admin\Downloads\
+3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\CopyMotion.cs(7,35): warning CS0649: Field 'CopyMotion.doNotSync' is never assigned to, and will always have its default value false [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\BotPlayer.cs(38,49): warning CS0649: Field 'BotPlayer.ragdollControl' is never assigned to, and will always have its default value null [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+
+    5 Warning(s)
+
+    0 Error(s)
+
+
+Time Elapsed 00:00:05.56
+
+Source code compiled successfully!
+report@code:build 5779.75
+report@diagnostics:verify 0.38
+report@diagnostics:upload 3629.02
+report@code:stage 4363.35
+[ Stage3 ] Code compiled and bundled successfully.
+report@package:stage 710.05
+[ Stage4 ] Target platform: develop
+[ Stage4 ] Package bundled successfully
+report@assets:stats 0.11
+Authorized using stored user info.
+stderr: 'rm' is not recognized as an internal or external command,
+operable program or batch file.
+
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/asset.png texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Freddy/Freddy.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/map6Canh/huggy1.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/hexagon/Pokemon/jigglypuff.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/hexagon/Pokemon/meowth.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/hexagon/Pokemon/pikachu.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/hexagon/Pokemon/squirtle.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/hexagon/Pokemon/bullbasaur.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Squid doll.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/anim_player_partymatch_01/player12.png texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/tex_Vanny.png texture. Change its format from ETC_RGB4Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Shark.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Venom/tex_Venom.png texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/Icon_Hand.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/Icon_Infinity.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/logo.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/txt_failed 1.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/frame.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/chica.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Huggy/huggy.jpg texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/Minion.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/Map 1/Montgomery.png texture. Change its format from ETC2_RGBA8 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Roxame/tex_Roxame.png texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Models/player/Squid char.png texture. Change its format from ETC_RGB4 to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/InGame/circle-outline3.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/txt_new_skin.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/light.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/icon_watch.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Converting Assets/PlayableAssets/Texture/UI/bg_orange.png texture. Change its format from ETC2_RGBA8Crunched to "RGBA 32 bit" to speed up export
+[ Warn ] $Usage of mesh colliders has negative effect on performance. You can use primitive colliders instead.
+Exporting assets from Unity............
+[ Stage1 ] Assets exported from Unity and staged for further processing
+Using D:/ABI/ABI-PLY-MonsterParty-WorkaroundV2/Assets/PlayableAssets/Texture/UI/SRN CookieRun Black.otf file to generate an atlas for SRN CookieRun Black[29434] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?SWIPETOPLAYTAPTORESTARTGETITNOTHANKS,
+Combined 134 glyphs into bitmap texture at D:/ABI/ABI-PLY-MonsterParty-WorkaroundV2/LunaTemp/stage1/tmp/fonts/SRN CookieRun Black-29434/output_0.png (59kb)
+Resources:
+{}
+[ Stage2 ] Assets postprocessed and bundled successfully
+Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+
+Build started 3/11/2022 9:41:48 PM.
+
+Project "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" on node 1 (Rebuild target(s)).
+
+CoreClean:
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb".
+
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+
+CoreCompile:
+
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2020;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2020_3;UNITY_2020_3_10 /highentropyva+ /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.13-luna\lib\net40\Bridge.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\DOTween.1.2.235\lib\net40\DOTween.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.0\TextMeshPro.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll /reference:C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /utf8output /langversion:7.2 D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\DOTween\Modules\DOTweenModuleAudio.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\DOTween\Modules\DOTweenModulePhysics.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\DOTween\Modules\DOTweenModulePhysics2D.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\DOTween\Modules\DOTweenModuleSprite.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\DOTween\Modules\DOTweenModuleUI.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\DOTween\Modules\DOTweenModuleUnityVersion.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\DOTween\Modules\DOTweenModuleUtils.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\Attendee.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\BotPlayer.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\CopyMotion.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\DynamicJoystick.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\GameManager.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\GroundCheck.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\Joysticks.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\LunaRagdollControl.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\MatchManager.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\PlayerController.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\RotateAround.cs D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\TouchRotateSingle.cs Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\BotPlayer.cs(38,49): warning CS0649: Field 'BotPlayer.ragdollControl' is never assigned to, and will always have its default value null [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\LunaRagdollControl.cs(6,35): warning CS0649: Field 'LunaRagdollControl.toggleOnByDefault' is never assigned to, and will always have its default value false [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\CopyMotion.cs(7,35): warning CS0649: Field 'CopyMotion.doNotSync' is never assigned to, and will always have its default value false [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\CopyMotion.cs(10,41): warning CS0649: Field 'CopyMotion.mirrorJoint' is never assigned to, and will always have its default value null [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\MatchManager.cs(41,17): warning CS0169: The field 'MatchManager.winCard' is never used [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  CompilerServer: server - server processed compilation - 58f96268-f0ee-4d4a-8b0f-b88ffc8040e7
+
+_CopyFilesMarkedCopyLocal:
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\DOTween.1.2.235\lib\net40\DOTween.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.13-luna\lib\net40\Bridge.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.0\TextMeshPro.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.13-luna\lib\net40\Bridge.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.xml" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Creating "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CopyComplete" because "AlwaysCreate" was specified.
+
+CopyFilesToOutputDirectory:
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Scripts -> C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+
+  Copying file from "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" to "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+BridgeNetCompilerTask:
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+Done Building Project "C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target(s)).
+
+
+
+Build succeeded.
+
+
+
+"C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target) (1) ->
+(CoreCompile target) -> 
+
+  D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\BotPlayer.cs(38,49): warning CS0649: Field 'BotPlayer.ragdollControl' is never assigned to, and will always have its default value null [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\LunaRagdollControl.cs(6,35): warning CS0649: Field 'LunaRagdollControl.toggleOnByDefault' is never assigned to, and will always have its default value false [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\CopyMotion.cs(7,35): warning CS0649: Field 'CopyMotion.doNotSync' is never assigned to, and will always have its default value false [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\CopyMotion.cs(10,41): warning CS0649: Field 'CopyMotion.mirrorJoint' is never assigned to, and will always have its default value null [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\ABI\ABI-PLY-MonsterParty-WorkaroundV2\Assets\PlayableAssets\Scripts\MatchManager.cs(41,17): warning CS0169: The field 'MatchManager.winCard' is never used [C:\Users\Admin\Downloads\3.1.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+
+    5 Warning(s)
+
+    0 Error(s)
+
+
+Time Elapsed 00:00:05.65
+
+Source code compiled successfully!
+[ Stage3 ] Code compiled and bundled successfully.
+[ Stage4 ] Target platform: playground
+[ Stage4 ] Package bundled successfully
+[ Stage4 ] Package uploaded successfully
